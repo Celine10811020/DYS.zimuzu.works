@@ -1,0 +1,24 @@
+body
+{
+    display: block;
+    margin: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+#blank
+{
+  height: 30px;
+}
+
+#information
+{
+  margin-bottom: auto;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding-bottom: auto;
+  text-align: center;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
